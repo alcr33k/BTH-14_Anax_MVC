@@ -1,0 +1,1 @@
+Alexander Björkenhall studerar allt som finns om databaser och utveckling av webbapplikationer vid Blekinge Tekniska Högskola. Han är redo för att börja producera imponerande resultat med hjälp av SQL, PHP, HTML och CSS.
